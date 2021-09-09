@@ -1,9 +1,9 @@
 # YOLOX_J
 ##################
 
-YOLOX替换为bifpn层
+YOLOX替换为biFPN层
 
-baseline：
+Baseline：
 
 YOLOX_m
 
